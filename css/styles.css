@@ -10,7 +10,8 @@ html {
 
 h1 {
   font-size: 72px;
-  text-align: center;
+  font-family: "Times New Roman", serif;
+  text-align: center;;
 }
 
 .recipes {
