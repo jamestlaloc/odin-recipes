@@ -8,16 +8,19 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: rgb(189, 216, 216);
+}
+
 h1 {
   font-size: 72px;
-  font-family: "Times New Roman", serif;
+  font-family:'Times New Roman', Times, serif;
   text-align: center;;
 }
 
-.recipes {
+p{
+  display: inline-block;
   font-size: 30px;
-}
-
-.recipes:hover {
-  color: gold;
+  margin-left: 225px;
+  margin-right: 225px;
 }
