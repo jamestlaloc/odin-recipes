@@ -15,12 +15,14 @@ body {
 h1 {
   font-size: 72px;
   font-family:'Times New Roman', Times, serif;
-  text-align: center;;
+  text-align: center;
 }
 
-p{
+.recipes{
   display: inline-block;
   font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
   margin-left: 225px;
   margin-right: 225px;
 }
+
